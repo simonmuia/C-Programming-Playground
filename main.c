@@ -3,11 +3,17 @@
 #include <stdio.h>
 
 
-int main()
+// declare function main
+int main(void)
 {
     /* code */
+    int age;
+    int name;
+    double amount;
+    age = 25;
+    name = "simon";
    
-    printf("Hello World in C");
+    printf("It's your %dth birthday",age);
     return 0;
 }
 
