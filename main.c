@@ -6,7 +6,7 @@ int main()
 {
     /* code */
    
-    printf("Hello World");
+    printf("Hello World in C");
     return 0;
 }
 
